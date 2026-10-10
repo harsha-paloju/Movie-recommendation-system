@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
