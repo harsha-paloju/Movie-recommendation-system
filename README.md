@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System🎬🍿
 
 A movie discovery application that recommends titles with similar metadata. It pairs a Streamlit web interface with a FastAPI service and uses a precomputed similarity artifact to generate recommendations.
 
